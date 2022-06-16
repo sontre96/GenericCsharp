@@ -1,0 +1,15 @@
+D:\C#\ODBC\Generic3\bin\Debug\net6.0\Generic3.exe
+D:\C#\ODBC\Generic3\bin\Debug\net6.0\Generic3.deps.json
+D:\C#\ODBC\Generic3\bin\Debug\net6.0\Generic3.runtimeconfig.json
+D:\C#\ODBC\Generic3\bin\Debug\net6.0\Generic3.dll
+D:\C#\ODBC\Generic3\bin\Debug\net6.0\Generic3.pdb
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.csproj.AssemblyReference.cache
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.AssemblyInfoInputs.cache
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.AssemblyInfo.cs
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.csproj.CoreCompileInputs.cache
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.dll
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\refint\Generic3.dll
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.pdb
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\Generic3.genruntimeconfig.cache
+D:\C#\ODBC\Generic3\obj\Debug\net6.0\ref\Generic3.dll

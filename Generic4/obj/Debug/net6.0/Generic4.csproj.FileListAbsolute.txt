@@ -1,0 +1,15 @@
+D:\C#\ODBC\Generic4\bin\Debug\net6.0\Generic4.exe
+D:\C#\ODBC\Generic4\bin\Debug\net6.0\Generic4.deps.json
+D:\C#\ODBC\Generic4\bin\Debug\net6.0\Generic4.runtimeconfig.json
+D:\C#\ODBC\Generic4\bin\Debug\net6.0\Generic4.dll
+D:\C#\ODBC\Generic4\bin\Debug\net6.0\Generic4.pdb
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.csproj.AssemblyReference.cache
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.AssemblyInfoInputs.cache
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.AssemblyInfo.cs
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.csproj.CoreCompileInputs.cache
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.dll
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\refint\Generic4.dll
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.pdb
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\Generic4.genruntimeconfig.cache
+D:\C#\ODBC\Generic4\obj\Debug\net6.0\ref\Generic4.dll

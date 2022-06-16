@@ -1,0 +1,15 @@
+D:\C#\ODBC\Generic2\bin\Debug\net6.0\Generic2.exe
+D:\C#\ODBC\Generic2\bin\Debug\net6.0\Generic2.deps.json
+D:\C#\ODBC\Generic2\bin\Debug\net6.0\Generic2.runtimeconfig.json
+D:\C#\ODBC\Generic2\bin\Debug\net6.0\Generic2.dll
+D:\C#\ODBC\Generic2\bin\Debug\net6.0\Generic2.pdb
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.csproj.AssemblyReference.cache
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.AssemblyInfoInputs.cache
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.AssemblyInfo.cs
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.csproj.CoreCompileInputs.cache
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.dll
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\refint\Generic2.dll
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.pdb
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\Generic2.genruntimeconfig.cache
+D:\C#\ODBC\Generic2\obj\Debug\net6.0\ref\Generic2.dll
